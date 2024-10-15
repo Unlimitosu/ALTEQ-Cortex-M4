@@ -1,0 +1,6 @@
+../Core/Src/field.c:6:1:multiplicationModuloP	0	static
+../Core/Src/field.c:15:1:addmul_P32_into_64	4	static
+../Core/Src/field.c:25:1:reductionModuloP	0	static
+../Core/Src/field.c:34:10:reductionStrict	0	static
+../Core/Src/field.c:43:10:inversionModuloP	8	static
+../Core/Src/field.c:84:6:setInversionModuloP_vec_C	624	static

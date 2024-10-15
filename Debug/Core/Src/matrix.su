@@ -1,0 +1,3 @@
+../Core/Src/matrix.c:5:1:columnMul_32_vec	96	static
+../Core/Src/matrix.c:33:1:columnsMatrix	104	static
+../Core/Src/matrix.c:51:1:columnsDecomposition	120	dynamic

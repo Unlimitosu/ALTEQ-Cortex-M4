@@ -1,0 +1,9 @@
+../Core/Src/keccak/Keccak-readable-and-compact.c:207:5:LFSR86540	2
+../Core/Src/keccak/Keccak-readable-and-compact.c:221:6:KeccakF1600_StatePermute	20
+../Core/Src/keccak/Keccak-readable-and-compact.c:292:6:Keccak	20
+../Core/Src/keccak/Keccak-readable-and-compact.c:96:6:FIPS202_SHAKE128	1
+../Core/Src/keccak/Keccak-readable-and-compact.c:104:6:FIPS202_SHAKE256	1
+../Core/Src/keccak/Keccak-readable-and-compact.c:112:6:FIPS202_SHA3_224	1
+../Core/Src/keccak/Keccak-readable-and-compact.c:120:6:FIPS202_SHA3_256	1
+../Core/Src/keccak/Keccak-readable-and-compact.c:128:6:FIPS202_SHA3_384	1
+../Core/Src/keccak/Keccak-readable-and-compact.c:136:6:FIPS202_SHA3_512	1

@@ -1,0 +1,3 @@
+../Core/Src/sign.c:14:5:crypto_sign_keypair	3
+../Core/Src/sign.c:57:5:crypto_sign	16
+../Core/Src/sign.c:224:5:crypto_sign_open	15
